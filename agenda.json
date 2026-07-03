@@ -1,0 +1,29 @@
+[
+    {
+       "data":"01 AGO",
+
+        "local":"Delfino 146",
+
+        "cidade":"Florianópolis - SC",
+
+        "hora":"12:00",
+
+        "banner":"show02.png",
+
+        "ingresso":"https://www.pensanoevento.com.br/sitev2/eventos/104981/vanessa-solo" 
+    },
+ 
+    {
+       "data":"04 SET",
+
+        "local":"Secreto Floripa",
+
+        "cidade":"Florianópolis - SC",
+
+        "hora":"21:00",
+   
+        "banner":"show01.png",
+
+        "ingresso":""
+    }
+]
