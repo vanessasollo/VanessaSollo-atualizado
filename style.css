@@ -969,7 +969,6 @@ saturate(1.05);
 
     .header{
         padding:14px 6%;
-        justify-content:flex-end;
     }
 
     .header nav{
@@ -985,9 +984,8 @@ saturate(1.05);
         font-size:15px;
     }
 
-    /* Nome já aparece grande no hero logo abaixo */
     .logo{
-        display:none;
+        font-size:20px;
     }
 
     .hero-image{
